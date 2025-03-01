@@ -4,21 +4,26 @@ Donde se podran registar productos y el ID se genera automaticamente
 ## COMO EJECUTARLO
 Como requisito debes tener instalado maven
 descarga el repostirio
-´´´ bash
+```sh
 git clone https://github.com/koket987/PARCIAL1-ARSW.git
-´´´
+```
 
 luego ingresa a la carpeta
 
+```sh
 cd PARCIAL1-ARSW
+```
 
 Ahora instalamos el proyecto
-
+```sh
 mvn clean install
+```
 
 Y por ultimo ejecutamos springboot
 
+```sh
 mvn spring-boot:run
+```
 
 ## PRUEBAS
 Vamos ahora con las purebas en postman
