@@ -4,7 +4,7 @@ Donde se podran registar productos y el ID se genera automaticamente
 ## COMO EJECUTARLO
 Como requisito debes tener instalado maven
 descarga el repostirio
-'''bash
+''' bash
 git clone https://github.com/koket987/PARCIAL1-ARSW.git
 '''
 
